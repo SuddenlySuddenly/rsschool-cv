@@ -19,7 +19,7 @@ I’m a constant learner and a team player. I try my best to work effectively an
 ## Hard Skills
 
 - Programming languages and technologies: HTML/CSS (basic knowledge)
-- VSCode, GitHub
+- VSCode, GitHub, Figma
 - SEO: internal and external (extensive knowledge)
 
 ## Code Sample
