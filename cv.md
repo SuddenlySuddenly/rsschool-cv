@@ -10,7 +10,7 @@
 
 ## My Purpose
 
-I want to learn the basics of *Front-End Development* and continue my personal growth.
+I want to learn the basics of *Front-End Development* and continue my personal growth. In the near future i want to find a job in this sphere.
 
 ## Soft Skills
 
